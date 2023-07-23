@@ -1,6 +1,6 @@
 # Analise_Acidentes_Animais_Peconhentos
 
-![animais-peconhentos](https://github.com/Toucci/Analise_Animais_Peconhentos/assets/123783909/fefb8d80-edd5-4de6-af79-3caf677faeef)
+[![animais-peconhentos](https://github.com/Toucci/Analise_Animais_Peconhentos/assets/123783909/fefb8d80-edd5-4de6-af79-3caf677faeef)](https://radioceres.com.br/wp-content/uploads/sites/7/2023/02/maxresdefault.jpg)
 
 Animais peçonhentos são reconhecidos como aqueles que produzem ou modificam algum veneno e possuem algum aparato para injetá-lo na sua presa ou predador. Os principais animais peçonhentos que causam acidentes no Brasil são algumas espécies de serpentes, de escorpiões, de aranhas, de lepidópteros (mariposas e suas larvas), de himenópteros (abelhas, formigas e vespas), de coleópteros (besouros), de quilópodes (lacraias), de peixes, de cnidários (águas-vivas e caravelas), entre outros. Os animais peçonhentos de interesse em saúde pública podem ser definidos como aqueles que causam acidentes classificados pelos médicos como moderados ou graves.
 
